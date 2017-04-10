@@ -4,7 +4,7 @@
 
 #include "context.h"
 #include "game.h"
-/*hallo*/
+/*halloooooo*/
 int main(int argc, char** argv)
 {
 	// Set debug flags
@@ -20,6 +20,7 @@ int main(int argc, char** argv)
 	// Memory leak to test inclusion of debug_file.h
 	//int* q = new int;
 
+	//blabla
 	// Quit
 	return 0;
 }
