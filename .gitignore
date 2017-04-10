@@ -1,0 +1,6 @@
+Debug/
+n*.txt
+allegro/
+allegro.log
+SlimeVolley/Debug/
+SlimeVolley/allegro.log
