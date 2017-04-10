@@ -4,7 +4,7 @@
 
 #include "context.h"
 #include "game.h"
-/*hallo*/
+/*halloooooo*/
 int main(int argc, char** argv)
 {
 	// Set debug flags
